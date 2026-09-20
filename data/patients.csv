@@ -1,0 +1,11 @@
+patient_id,name,age,gender,registration_date
+P001,Ravi Kumar,45,Male,2026-09-01
+P002,Anita Sharma,32,Female,2026-09-02
+P003,Suresh Reddy,67,Male,2026-09-02
+P004,Priya Singh,28,Female,2026-09-03
+P005,Arjun Rao,54,Male,2026-09-03
+P006,Meena Devi,61,Female,2026-09-04
+P007,Kiran Kumar,39,Male,2026-09-04
+P008,Lakshmi Rao,72,Female,2026-09-05
+P009,Rahul Verma,50,Male,2026-09-05
+P010,Sneha Reddy,35,Female,2026-09-06

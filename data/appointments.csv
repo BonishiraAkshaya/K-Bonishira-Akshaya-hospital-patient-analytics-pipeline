@@ -1,0 +1,11 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,department,status,consultation_time
+A001,P001,D101,2026-09-10,09:00,Cardiology,Completed,09:35
+A002,P002,D102,2026-09-10,09:30,General Medicine,Completed,09:45
+A003,P003,D101,2026-09-10,10:00,Cardiology,Completed,10:50
+A004,P004,D103,2026-09-10,10:30,Neurology,Completed,10:45
+A005,P005,D104,2026-09-10,11:00,Orthopedics,Completed,11:30
+A006,P006,D102,2026-09-11,09:00,General Medicine,Completed,09:40
+A007,P007,D103,2026-09-11,09:30,Neurology,Completed,09:50
+A008,P008,D101,2026-09-11,10:00,Cardiology,Completed,10:55
+A009,P009,D104,2026-09-11,10:30,Orthopedics,Cancelled,
+A010,P010,D102,2026-09-11,11:00,General Medicine,Completed,11:15

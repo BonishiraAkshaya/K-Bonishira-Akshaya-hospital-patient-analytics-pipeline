@@ -1,0 +1,11 @@
+lab_id,patient_id,test_name,test_date,result,normal_range
+L001,P001,Blood Sugar,2026-09-10,180,70-140
+L002,P002,Blood Sugar,2026-09-10,95,70-140
+L003,P003,Blood Pressure,2026-09-10,160/100,90/60-120/80
+L004,P004,Hemoglobin,2026-09-10,13.2,12-16
+L005,P005,Blood Sugar,2026-09-10,145,70-140
+L006,P006,Cholesterol,2026-09-11,245,125-200
+L007,P007,Hemoglobin,2026-09-11,14.1,12-16
+L008,P008,Blood Sugar,2026-09-11,190,70-140
+L009,P009,Cholesterol,2026-09-11,180,125-200
+L010,P010,Hemoglobin,2026-09-11,12.8,12-16

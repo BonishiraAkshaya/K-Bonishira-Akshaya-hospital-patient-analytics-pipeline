@@ -1,0 +1,11 @@
+consultation_id,patient_id,doctor_id,consultation_date,diagnosis,medication
+C001,P001,D101,2026-09-10,Hypertension,Medication A
+C002,P002,D102,2026-09-10,Healthy,No Medication
+C003,P003,D101,2026-09-10,Hypertension,Medication B
+C004,P004,D103,2026-09-10,Migraine,Medication C
+C005,P005,D104,2026-09-10,Diabetes,Medication D
+C006,P006,D102,2026-09-11,High Cholesterol,Medication E
+C007,P007,D103,2026-09-11,Healthy,No Medication
+C008,P008,D101,2026-09-11,Diabetes,Medication F
+C009,P009,D104,2026-09-11,Healthy,No Medication
+C010,P010,D102,2026-09-11,Healthy,No Medication
